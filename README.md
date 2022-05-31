@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sander Pors
+- 👀 I’m interested in openedge en C# development
+- 🌱 I’m currently still learning 
+- 💞️ I’m not looking to collaborate on anything
